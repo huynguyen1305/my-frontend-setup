@@ -4,6 +4,7 @@
   "editor.detectIndentation": false,
   "search.exclude": {
     "package-lock.json": true,
+    "yarn.lock": true,
     "node_modules": true,
     "dist": true
   },
